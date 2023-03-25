@@ -1,0 +1,43 @@
+.carousel-item {
+    height: 100vh !important;
+}
+.card .card-body{
+    height: 500px;
+    width: 200px;
+}
+.container-fluid {
+    border-bottom: 3px solid black;
+    width: 100%;
+
+}
+#navbarSupportedContent ul li a{
+    font-size: larger;
+}
+
+#navbarSupportedContent ul li a:hover{
+    color: rgb(13, 75, 26);
+    font-size: large;
+}
+.container .card img{
+    height: 300px important;
+    width: 200px;
+}
+.container img{
+    height: 200px;
+    width: 200px;
+}
+.container .row img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 5px solid green; */
+
+}
+.footer {
+    background-color:rgb(13, 75, 26);
+    width: 100%;
+    
+}
+.container .row .col a {
+    font-size: 30px !important;
+}
